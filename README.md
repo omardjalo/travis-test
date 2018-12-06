@@ -1,2 +1,2 @@
 # travis-test
-https://travis-ci.com/omardjalo/travis-test.svg?branch=master
+[![Build Status](https://travis-ci.com/omardjalo/travis-test.svg?branch=master)](https://travis-ci.com/omardjalo/travis-test)
